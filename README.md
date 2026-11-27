@@ -87,4 +87,9 @@ cleanalyze/
 This is an educational project version (0.1.0). Test the package locally before publishing. PyPI publication requires a project account, package-name availability check, and a successful TestPyPI upload first.
 
 ## Contributors
-Add the names of all group members here before submission.
+
+- John Vince J. Ambrosio
+- James Ryan Cagas
+- Reyben W. Ortega
+- Kent Isaac B. Quilicot
+
